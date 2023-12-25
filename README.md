@@ -1,9 +1,9 @@
 # Scientific_Calculator
-Developer Name : Arshvir
-IDE            : VS Code and Dev C++ 
-Instagram      : @avarshvir
-Gitlab         :
-Stack OverFlow : 
+Developer Name : Arshvir                                                                                                ;
+IDE            : VS Code and Dev C++                                                                                    ;
+Instagram      : @avarshvir                                                                                             ;
+Gitlab         :                                                                                                        ;
+Stack OverFlow :                                                                                                        ;
 
 Scientific Calculator capable of performing matrix, trigonometric algebraic, arithmetic and conversion calculations.
 
@@ -21,9 +21,10 @@ Arithmetic Operations: Perform basic arithmetic operations such as addition, sub
 Unit Conversions: Convert between different units, including length, mass, temperature, and more.
 
 # Getting Started
-Prerequisites
+# Prerequisites
 You need to have a C++ compiler installed on your system.
-Usage
+
+# Usage
 Clone the repository:
 git clone https://github.com/avarshvir/Scientific_Calculator.git
 
